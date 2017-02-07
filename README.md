@@ -1,18 +1,17 @@
 
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+<h2>Github Indtructions</h2
 
+```
+git init(do this only the first time)
+git add .
+git commit -am " my first commit"
+git remote add origin git@github.com:edithnickerson/WebApplicationClass.git
+git push -u origin master
+…or push an existing repository from the command line
 
-Hi there! Welcome to Cloud9 IDE!
+git remote add origin https://github.com/edithnickerson/WebApplicationClass.git
+git push -u origin master
 
-To get you started, create some files, play with the terminal,
-or visit http://docs.c9.io for our documentation.
-If you want, you can also go watch some training videos at
-http://www.youtube.com/user/c9ide.
+```
 
-Happy coding!
-The Cloud9 IDE team
+`alt t or Window on the toolbar to retrieve the command line
